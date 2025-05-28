@@ -1,0 +1,1 @@
+This project is windows app timer and blocker for battle with screen addiction. You should be focusing to more important things in your lifetime and this project is calling you to do that.
